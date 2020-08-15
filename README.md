@@ -1,4 +1,4 @@
-# N.S.T-project
+# N.S.T project
 ## H-A.I에서 진행중인 스터디그룹입니다.
 
 ### 참고 사이트
