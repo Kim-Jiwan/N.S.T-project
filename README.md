@@ -13,7 +13,7 @@ tf.keras를 사용한 **Neural Style Transfer**의 구현
     * 
 2. [Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses](https://arxiv.org/abs/1701.08893)
 3. [Deep Photo Style Transfer](https://openaccess.thecvf.com/content_cvpr_2017/html/Luan_Deep_Photo_Style_CVPR_2017_paper.html) Image Style Transfer Using Convolutional Neural Networks의 취약점을 개선한 논문
-    * 8월 4일 화요일 김지완 [발표자료](/Kim-Jiwan/N.S.T-project/pdf/Deep Photo Style Transfer 발표자료.pdf)
+    * 8월 4일 화요일 김지완 [발표자료](Kim-Jiwan/N.S.T-project/pdf/Deep Photo Style Transfer 발표자료.pdf)
 <hr/>
 
 #### 차후 일정
