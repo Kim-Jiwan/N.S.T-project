@@ -18,6 +18,7 @@ tf.keras를 사용한 **Neural Style Transfer**의 구현
     * 8월 4일 화요일 김지완 
         * [PDF 발표자료](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/pdf/Deep%20Photo%20Style%20Transfer%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
         * [PPT 다운로드](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/ppt/Deep%20Photo%20Style%20Transfer%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?raw=true)
+4. [Demystifying Neural Style Transfer](https://arxiv.org/abs/1701.01036)
 <hr/>
 
 #### 차후 일정
