@@ -1,6 +1,5 @@
 # N.S.T project
 ## H-A.I에서 진행중인 스터디그룹입니다.
-
 ### 참고 자료
 * [CNN](http://taewan.kim/post/cnn/) **Convoltional Neural Network** 이론
 * [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) **Style Transfer** 논문 설명
