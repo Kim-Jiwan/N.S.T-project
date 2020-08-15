@@ -2,16 +2,18 @@
 ## H-A.I에서 진행중인 스터디그룹입니다.
 
 ### 참고 자료
-* [CNN](http://taewan.kim/post/cnn/) Convoltional Neural Network 이론
-* [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) Style Transfer 논문 설명
+* [CNN](http://taewan.kim/post/cnn/) **Convoltional Neural Network** 이론
+* [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) **Style Transfer** 논문 설명
 * [NST Tensorflow code](https://www.tensorflow.org/tutorials/generative/style_transfer)
-tf.keras를 사용한 Neural Style Transfer
+tf.keras를 사용한 **Neural Style Transfer**의 구현
 <hr/>
 
 ### 참고 논문
-1. [Image Style Transfer Using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)
+1. [Image Style Transfer Using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) 
+    * 
 2. [Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses](https://arxiv.org/abs/1701.08893)
 3. [Deep Photo Style Transfer](https://openaccess.thecvf.com/content_cvpr_2017/html/Luan_Deep_Photo_Style_CVPR_2017_paper.html) Image Style Transfer Using Convolutional Neural Networks의 취약점을 개선한 논문
+    * 8월 4일 화요일 김지완 [발표자료](file:///C:/Users/Jiwan/Desktop/%EC%8B%A4%EC%8A%B5/Deep%20Photo%20Style%20Transfer%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 <hr/>
 
 #### 차후 일정
