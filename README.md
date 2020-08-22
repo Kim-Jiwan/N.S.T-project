@@ -1,10 +1,16 @@
 # N.S.T project
 ## H-A.I에서 진행중인 스터디그룹입니다.
+![](/photo/headboom.jpg)
+GPU처럼 머리가 과열된 조원들의 모습입니다.
+
 ### 참고 자료
 * [CNN](http://taewan.kim/post/cnn/) **Convoltional Neural Network** 이론
 * [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) **Style Transfer** 논문 설명
 * [NST Tensorflow code](https://www.tensorflow.org/tutorials/generative/style_transfer)
 tf.keras를 사용한 **Neural Style Transfer**의 구현
+<hr/>
+
+### 공부한 것들
 * [Tensorflow 기본다지기](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/basic_of_tensorflow.md)
 <hr/>
 
@@ -21,7 +27,7 @@ tf.keras를 사용한 **Neural Style Transfer**의 구현
 4. [Demystifying Neural Style Transfer](https://arxiv.org/abs/1701.01036)
 <hr/>
 
-#### 차후 일정
+### 차후 일정
 * 8월 24일 (월) 13:00 스터디
 * 9월 4일 PPT 초안
 * 9월 11일 PPT final
