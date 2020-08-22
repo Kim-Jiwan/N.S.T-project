@@ -3,6 +3,8 @@
 ![](/photo/headboom.jpg)
 
 [GPU](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/CPUvsGPU.md) 처럼 머리가 과열되어 즐거워하는 조원들의 모습입니다.
+<hr/>
+
 ### 참고 자료
 * [CNN](http://taewan.kim/post/cnn/) **Convoltional Neural Network** 이론
 * [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) **Style Transfer** 논문 설명
