@@ -2,8 +2,7 @@
 ## H-A.I에서 진행중인 스터디그룹입니다.
 ![](/photo/headboom.jpg)
 
-GPU처럼 머리가 과열된 조원들의 모습입니다.
-
+[GPU](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/CPUvsGPU.md) 처럼 머리가 과열되어 즐거워하는 조원들의 모습입니다.
 ### 참고 자료
 * [CNN](http://taewan.kim/post/cnn/) **Convoltional Neural Network** 이론
 * [Style Transfer](https://blog.lunit.io/2017/04/27/style-transfer/) **Style Transfer** 논문 설명
