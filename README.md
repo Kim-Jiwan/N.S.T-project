@@ -3,6 +3,7 @@
 ### 조원 : 김지완(전자공학부), 조혜민(전자공학부), 박은화(모바일공학과), 변준영(모바일공학과)
     
 ![](/photo/headboom.jpg)
+
 [GPU](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/CPUvsGPU.md) 처럼 머리가 과열되어 즐거워하는 조원들의 모습입니다.
 <hr/>
 
