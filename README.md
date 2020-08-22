@@ -1,5 +1,5 @@
-# N.S.T project
-## H-A.I에서 진행중인 스터디그룹입니다.
+# Neural Style Transfer
+## H-A.I에서 진행중인 프로젝트입니다.
 ### 조원 : 김지완(전자공학부), 조혜민(전자공학부), 박은화(모바일공학과), 변준영(모바일공학과)
     
 ![](/photo/headboom.jpg)
