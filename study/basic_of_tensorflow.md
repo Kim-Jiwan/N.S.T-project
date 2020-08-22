@@ -74,4 +74,13 @@ tf.multiply| 곱셈 |
 tf.div| 나눗셈의 몫(Python 2 스타일) |
 tf.truediv| 나눗셈의 몫(Python 3 스타일) |
 tf.mod| 나눗셈의 나머지 |
-tf.add| 덧셈 |
+tf.abs| 절댓값을 리턴 |
+tf.negative| 음수를 리턴 |
+tf.sign| 부호를 리턴(음수는 -1, 양수는 1, 0은 0을 리턴) |
+tf.reciprocal| 역수를 리턴(3의 역수는 1/3) |
+tf.square| 제곱을 계산 |
+tf.round| 반올림 값을 리턴 |
+tf.sqrt| 제곱근을 계산 |
+tf.pow| 거듭제곱 값을 계산 |
+tf.exp| 지수 값을 계산 |
+tf.log| 로그 값을 계산 |
