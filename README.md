@@ -1,6 +1,7 @@
 # N.S.T project
 ## H-A.I에서 진행중인 스터디그룹입니다.
 ![](/photo/headboom.jpg)
+
 GPU처럼 머리가 과열된 조원들의 모습입니다.
 
 ### 참고 자료
