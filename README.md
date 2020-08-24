@@ -10,7 +10,7 @@
 ### 공부한 것들
 * [Tensorflow 기본다지기](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/basic_of_tensorflow.md)
 * [VGG-19 with Max pooling](https://github.com/ewsn1593/CIFAR10-with-VGG_19/blob/master/CIFAR10_with_VGG_19.ipynb) 신준철님 깃허브
-
+* [tf.keras를 이용한 NST의 구현](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/NST_Implementation_Using_tf.keras.md)
 <hr/>
 
 ### 참고 자료
