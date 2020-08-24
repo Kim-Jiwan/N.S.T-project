@@ -10,6 +10,7 @@
 ### 공부한 것들
 * [Tensorflow 기본다지기](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/study/basic_of_tensorflow.md)
 * [VGG-19 with Max pooling](https://github.com/ewsn1593/CIFAR10-with-VGG_19/blob/master/CIFAR10_with_VGG_19.ipynb) 신준철님 깃허브
+
 <hr/>
 
 ### 참고 자료
@@ -31,12 +32,12 @@ tf.keras를 사용한 **Neural Style Transfer**의 구현
         * [PPT 다운로드](https://github.com/Kim-Jiwan/N.S.T-project/blob/master/ppt/Deep%20Photo%20Style%20Transfer%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?raw=true)
 4. [Demystifying Neural Style Transfer](https://arxiv.org/abs/1701.01036)
 5. [아직 뭔지 몰라요]()
-    * 8월 25일 화요일 조혜민
+    * 9월 1일 화요일 조혜민
         * [PDF 발표자료]()
         * [PPT 다운로드]()
 <hr/>
 
 ### 차후 일정
-* 9월 4일 스터디(시간 미정), PPT 초안
+* 9월 4일 마지막 스터디(tf코드 모델만들기~, 시간 미정), PPT 초안
 * 9월 11일 PPT final
 * 9월 말 프로젝트 발표회 예정 
